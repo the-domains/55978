@@ -5,15 +5,15 @@ description: >-
   équipe tout en maintenant le professionnalisme.Nous rencontrons, discuterons,
   conceptualisons vos idées et vous consultons sur les divers options et
   possibilités de réaliser vos visions efficacement.
-dateModified: '2018-06-03T08:11:53.199Z'
-datePublished: '2018-06-03T08:11:53.612Z'
+dateModified: '2018-06-03T08:15:04.141Z'
+datePublished: '2018-06-03T08:15:04.367Z'
 title: Travail d’équipe
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-06-03-travail-dequipe.md
 starred: false
 datePublishedOriginal: '2018-06-03T08:11:53.612Z'
-sourcePath: _posts/2018-06-03-travail-dequipe.md
 _type: Blurb
 
 ---
