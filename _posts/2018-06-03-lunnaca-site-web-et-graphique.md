@@ -9,36 +9,29 @@ keywords:
   - siteweb
   - ani markarian
   - animarkarian
-description: >
-  Consulter, créer, collaborer & gérer. Nous aimons mettre en œuvre nos
-  connaissances,
-
-  transcendre nos capacités et rejoindre le monde à travers nos services. 
-
-  Nous collaborons avec des gens de diverses talents et de ressources
-  technologiques pour vous apporter des utiles de publicité qui peuvent
-  promouvoir tous vos idées. Nous prenons charge de l’enregistrement du nom de
-  votre site web, l’hébergement et mise en place, de gérer vos contenus, de
-  faire des mises à jours si nécessaire, déplacer un site existant, préparer le
-  site pour des commerces électroniques, s’assurer du référencement de votre
-  site web, traduire s’il y a lieu, y compris la papeterie personnalisée,
-  communiquer et consulter avec vous et se déplacer pour vous rencontrer à votre
-  convenance.
+description: >-
+  Nous nous assurons que votre site a un conception web "Responsive" qui vise à
+  offrir une expérience de lecture et de navigation optimales pour l'utilisateur
+  en adaptant à tout type d'appareil de manière transparente quelle que soit sa
+  gamme, tailles et formats d'écrans. 
 app_links: []
-isBasedOnUrl: 'https://lunnagraphics.weebly.com/fr.html'
-title: LUNNAGRAPHICS
-datePublished: '2018-06-03T07:09:24.153Z'
-dateModified: '2018-06-03T07:09:23.704Z'
+title: |
+  Site Responsive
+datePublished: '2018-06-03T07:17:29.354Z'
+dateModified: '2018-06-03T07:17:28.601Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-06-03-lunnaca-site-web-et-graphique.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-06-03T06:01:30.412Z'
+url: site-responsive/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>LUNNAGRAPHICS</h1><p>Consulter, créer, collaborer &amp; gérer. Nous aimons mettre en œuvre nos connaissances,
-transcendre nos capacités et rejoindre le monde à travers nos services. 
-Nous collaborons avec des gens de diverses talents et de ressources technologiques pour vous apporter des utiles de publicité qui peuvent promouvoir tous vos idées. Nous prenons charge de l’enregistrement du nom de votre site web, l’hébergement et mise en place, de gérer vos contenus, de faire des mises à jours si nécessaire, déplacer un site existant, préparer le site pour des commerces électroniques, s’assurer du référencement de votre site web, traduire s’il y a lieu, y compris la papeterie personnalisée, communiquer et consulter avec vous et se déplacer pour vous rencontrer à votre convenance.
-</p></article>
+![Nous nous assurons que votre site a un conception web "Responsive" qui vise à offrir une expérience de lecture et de navigation optimales pour l'utilisateur en adaptant à tout type d'appareil de manière transparente quelle que soit sa gamme, tailles et formats d'écrans. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b934d0a3-1a01-4579-b145-8d77dd6e7c41.jpg)
+![Nous aimons travailler en collaboration avec des travailleurs autonomes et en équipe tout en maintenant le professionnalisme.
+Nous rencontrons, discuterons, conceptualisons vos idées et vous consultons sur les divers options et  possibilités de réaliser vos visions efficacement.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7886d3a5-0b95-4eda-9034-e58ab57c7088.jpg)
+![Nous nous efforçons de développer des contenus qui sont non seulement original, mais aussi lisible et compréhensif.
+Intégrant aussi vos divers resources dans un système de gestion de contenu unifié pour vous aider à gérer tout d'un même environnement.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad50516b-df78-444e-a97a-85f81d632f59.jpg)
