@@ -2,8 +2,8 @@
 author: []
 related: []
 publisher:
-  url: 'https://lunnagraphics.weebly.com'
-  name: Lunna.ca Web Site and Graphic Design
+  url: 'https://lunnagraphics.weebly.com/fr.html'
+  name: Lunna.ca Contenu Web et Graphique
   favicon: 'https://lunnagraphics.weebly.com/favicon.ico'
   domain: lunnagraphics.weebly.com
 keywords:
@@ -26,8 +26,8 @@ description: >
 app_links: []
 isBasedOnUrl: 'https://lunnagraphics.weebly.com/fr.html'
 title: Contenu Web et Graphique
-datePublished: '2018-06-03T06:28:52.501Z'
-dateModified: '2018-06-03T06:28:52.049Z'
+datePublished: '2018-06-03T06:37:05.832Z'
+dateModified: '2018-06-03T06:37:05.479Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-06-03-lunnaca-site-web-et-graphique.md
