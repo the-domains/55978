@@ -33,9 +33,6 @@ navigation:
   - name: A Propos
     id: 41472860-b103-4a37-b83c-589b30dc8bd4
     type: content
-  - name: Portfolio
-    url: 'https://lunnagraphics.weebly.com/portfolio-409683.html'
-    type: external
   - name: Politique
     url: 'https://lunnagraphics.weebly.com/policy-669152.html'
     type: external
