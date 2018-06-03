@@ -16,8 +16,8 @@ description: >-
   tout d'un même environnement.
 app_links: []
 title: Développement
-datePublished: '2018-06-03T08:10:18.003Z'
-dateModified: '2018-06-03T08:10:17.647Z'
+datePublished: '2018-06-03T08:15:04.328Z'
+dateModified: '2018-06-03T08:15:04.141Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-06-03-lunnaca-site-web-et-graphique.md
