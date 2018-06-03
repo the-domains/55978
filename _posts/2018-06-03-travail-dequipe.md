@@ -5,8 +5,8 @@ description: >-
   équipe tout en maintenant le professionnalisme.Nous rencontrons, discuterons,
   conceptualisons vos idées et vous consultons sur les divers options et
   possibilités de réaliser vos visions efficacement.
-dateModified: '2018-06-03T08:15:04.141Z'
-datePublished: '2018-06-03T08:15:04.367Z'
+dateModified: '2018-06-03T08:28:25.964Z'
+datePublished: '2018-06-03T08:28:26.104Z'
 title: Travail d’équipe
 author: []
 publisher: {}
