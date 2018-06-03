@@ -1,0 +1,28 @@
+color:
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+  brandStrength: 0.4196380095090717
+  lightness: 0.16185188945382833
+  saturation: 0.2705100034363568
+  rhythmicContrast: 0.30038867495022714
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: ' '
+layout_spectrum: 0.4891741909086704
+typography_spectrum: 0.7184443306177855
+content: []
+github: true
+url: 'https://thegrid.ai/55978/lunnagraphics'
+author:
+  name: Ani Markarian
+  email: lunnagraphics@gmail.com
+  url: 'https://thegrid.ai/55978/lunnagraphics'
