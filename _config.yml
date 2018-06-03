@@ -1,4 +1,5 @@
-typography_spectrum: 0.7184443306177855
+layout_spectrum: 0.22415565798953543
+typography_spectrum: 0.39348163798156355
 color:
   brandColors:
     - '#3E454C'
@@ -6,12 +7,11 @@ color:
     - '#7ECEFD'
     - '#FFF6E5'
     - '#FF7F66'
-  brandStrength: 0.4196380095090717
-  lightness: 0.16185188945382833
-  saturation: 0.2705100034363568
-  rhythmicContrast: 0.30038867495022714
+  brandStrength: 0.14593617964203998
+  lightness: 0.9097099705553143
+  saturation: 0.21630511815595155
+  rhythmicContrast: 0.7506405576662446
 github: true
-layout_spectrum: 0.4891741909086704
 author:
   name: Ani Markarian
   email: lunnagraphics@gmail.com
