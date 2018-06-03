@@ -1,16 +1,16 @@
-layout_spectrum: 0.6863138842850113
-typography_spectrum: 0.8331704294845683
+layout_spectrum: 0.09001394139409138
+typography_spectrum: 0.3264720594241182
 color:
   brandColors:
-    - '#3E454C'
-    - '#2185C5'
-    - '#7ECEFD'
-    - '#FFF6E5'
-    - '#FF7F66'
-  brandStrength: 0.5352347206971655
-  lightness: 0.6406793326822727
-  saturation: 0.08234768305914385
-  rhythmicContrast: 0.040494520253695473
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.7879716977981464
+  lightness: 0.7158875690366482
+  saturation: 0.46440388501133073
+  rhythmicContrast: 0.4811804629587522
 github: true
 author:
   name: Ani Markarian
