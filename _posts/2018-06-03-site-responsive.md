@@ -5,8 +5,8 @@ description: >-
   offrir une expérience de lecture et de navigation optimales pour l'utilisateur
   en adaptant à tout type d'appareil de manière transparente quelle que soit sa
   gamme, tailles et formats d'écrans.
-dateModified: '2018-06-03T09:45:30.464Z'
-datePublished: '2018-06-03T09:45:31.070Z'
+dateModified: '2018-06-03T10:32:33.529Z'
+datePublished: '2018-06-03T10:32:34.125Z'
 title: Site Responsive
 author: []
 publisher: {}
