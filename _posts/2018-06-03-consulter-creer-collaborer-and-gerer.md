@@ -10,16 +10,18 @@ description: >-
   site web, traduire s’il y a lieu, y compris la papeterie personnalisée,
   communiquer et consulter avec vous et se déplacer pour vous rencontrer à votre
   convenance.
-dateModified: '2018-06-03T08:39:07.139Z'
-datePublished: '2018-06-03T08:39:07.592Z'
+dateModified: '2018-06-03T08:45:37.088Z'
+datePublished: '2018-06-03T08:45:37.440Z'
 title: 'Consulter, créer, collaborer & gérer'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-06-03-consulter-creer-collaborer-and-gerer.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-06-03T08:28:12.106Z'
-_type: Blurb
+url: consulter-creer-collaborer-and-gerer/index.html
+_type: Article
 
 ---
 ![Nous aimons mettre en œuvre nos connaissances, transcendre nos capacités et rejoindre le monde à travers nos services.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdb0ff35-794d-4cb9-bd2a-fd887f04711d.jpg)
