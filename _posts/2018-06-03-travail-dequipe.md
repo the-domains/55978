@@ -5,16 +5,20 @@ description: >-
   équipe tout en maintenant le professionnalisme.Nous rencontrons, discuterons,
   conceptualisons vos idées et vous consultons sur les divers options et
   possibilités de réaliser vos visions efficacement.
-dateModified: '2018-06-03T08:28:25.964Z'
-datePublished: '2018-06-03T08:28:26.104Z'
+dateModified: '2018-06-03T08:55:17.353Z'
+datePublished: '2018-06-03T08:55:18.061Z'
 title: Travail d’équipe
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-06-03-travail-dequipe.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-06-03T08:11:53.612Z'
-_type: Blurb
+url: travail-dequipe/index.html
+_type: Article
 
 ---
+---
+
 ![Nous aimons travailler en collaboration avec des travailleurs autonomes et en équipe tout en maintenant le professionnalisme.Nous rencontrons, discuterons, conceptualisons vos idées et vous consultons sur les divers options et possibilités de réaliser vos visions efficacement.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83ee977c-5d98-444b-932a-345ea154f63c.jpg)
