@@ -1,5 +1,5 @@
-layout_spectrum: 0.015260089806529997
-typography_spectrum: 0.7037951054037687
+layout_spectrum: 0.32334148307672084
+typography_spectrum: 0.8231023645141889
 color:
   brandColors:
     - '#96CA2D'
@@ -7,10 +7,10 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
-  brandStrength: 0.10987741893553868
-  lightness: 0.8316105932501688
-  saturation: 0.9698074705150938
-  rhythmicContrast: 0.6909595749687661
+  brandStrength: 0.4359481376486987
+  lightness: 0.7341067805671418
+  saturation: 0.6998119171469998
+  rhythmicContrast: 0.8611191256367371
 github: true
 author:
   name: Tous droits réservé lunnagraphics.ca Ani Markarian
