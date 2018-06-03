@@ -1,3 +1,4 @@
+typography_spectrum: 0.7184443306177855
 color:
   brandColors:
     - '#3E454C'
@@ -9,6 +10,16 @@ color:
   lightness: 0.16185188945382833
   saturation: 0.2705100034363568
   rhythmicContrast: 0.30038867495022714
+github: true
+layout_spectrum: 0.4891741909086704
+author:
+  name: Ani Markarian
+  email: lunnagraphics@gmail.com
+  url: 'https://thegrid.ai/55978/lunnagraphics'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/067d2f35-8930-419e-8f26-93e522f11145.png
+name: ' '
+url: 'https://thegrid.ai/55978/lunnagraphics'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,9 +27,11 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: ' '
-layout_spectrum: 0.4891741909086704
-typography_spectrum: 0.7184443306177855
+navigation:
+  - name: Lunnagraphics.ca
+    url: 'https://lunnagraphics.weebly.com/fr.html'
+    type: external
+title: Lunnagraphics.ca
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,30 +41,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/43e860a1-22cb-4d99-812d-14d8f6056d55.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
-url: 'https://thegrid.ai/55978/lunnagraphics'
-author:
-  name: Ani Markarian
-  email: lunnagraphics@gmail.com
-  url: 'https://thegrid.ai/55978/lunnagraphics'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/067d2f35-8930-419e-8f26-93e522f11145.png
-title: Lunnagraphics.ca
 description: Graphics and website design
