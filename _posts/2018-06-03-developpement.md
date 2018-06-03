@@ -5,8 +5,8 @@ description: >-
   original, mais aussi lisible et compréhensif.Intégrant aussi vos divers
   resources dans un système de gestion de contenu unifié pour vous aider à gérer
   tout d'un même environnement.
-dateModified: '2018-06-03T06:59:56.668Z'
-datePublished: '2018-06-03T06:59:56.864Z'
+dateModified: '2018-06-03T07:13:12.577Z'
+datePublished: '2018-06-03T07:13:12.969Z'
 title: Développement
 author: []
 publisher: {}
@@ -29,4 +29,4 @@ Nous nous assurons que votre site a un conception web "Responsive" qui vise à o
 ## **Travail d'équipe**
 
 Nous aimons travailler en collaboration avec des travailleurs autonomes et en équipe tout en maintenant le professionnalisme.  
-Nous rencontrons, discuterons, conceptualisons vos idées et vous consultons sur les divers options et  possibilités de réaliser vos visions efficacement.
+Nous rencontrons, discuterons, conceptualisons vos idées et vous consultons sur les divers options et possibilités de réaliser vos visions efficacement.
