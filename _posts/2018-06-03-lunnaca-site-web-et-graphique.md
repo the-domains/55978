@@ -16,8 +16,8 @@ description: >-
   tout d'un même environnement.
 app_links: []
 title: Développement
-datePublished: '2018-06-03T09:08:11.583Z'
-dateModified: '2018-06-03T09:08:11.244Z'
+datePublished: '2018-06-03T09:13:35.980Z'
+dateModified: '2018-06-03T09:13:35.363Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-06-03-lunnaca-site-web-et-graphique.md
@@ -29,6 +29,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Nous nous efforçons de développer des contenus qui sont non seulement original, mais aussi lisible et compréhensif. Intégrant aussi vos divers resources dans un système de gestion de contenu unifié pour vous aider à gérer tout d'un même environnement.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6b04c3f-23c1-4339-87cf-fb115ddb4877.jpg)
+![Nous nous efforçons de développer des contenus qui sont non seulement original, mais aussi lisible et compréhensif. Intégrant aussi vos divers resources dans un système de gestion de contenu unifié pour vous aider à gérer tout d'un même environnement.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48172eb3-d55a-4072-8bd5-359660b5e9b3.png)
 
 ---
