@@ -1,4 +1,3 @@
-layout_spectrum: 0.32334148307672084
 typography_spectrum: 0.8231023645141889
 color:
   brandColors:
@@ -12,6 +11,7 @@ color:
   saturation: 0.6998119171469998
   rhythmicContrast: 0.8611191256367371
 github: true
+layout_spectrum: 0.32334148307672084
 author:
   name: Tous droits réservé lunnagraphics.ca Ani Markarian
   email: lunnagraphics@gmail.com
@@ -36,6 +36,9 @@ navigation:
   - name: Politique
     url: 'https://lunnagraphics.weebly.com/policy-669152.html'
     type: external
+  - name: A Propos
+    id: 41472860-b103-4a37-b83c-589b30dc8bd4
+    type: content
 title: Lunnagraphics.ca
 content: []
 description: ''
