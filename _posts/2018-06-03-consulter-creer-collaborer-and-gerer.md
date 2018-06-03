@@ -34,16 +34,16 @@ description: >-
   qui sera satisfaisant autant à vous qu’à nous ainsi que nous offrir la joie et
   l’opportunité de se connecter avec des apprenants, rêveurs, débutants et
   propriétaires diversifiés.
-dateModified: '2018-06-03T08:28:11.639Z'
-datePublished: '2018-06-03T08:28:12.106Z'
+dateModified: '2018-06-03T08:28:25.964Z'
+datePublished: '2018-06-03T08:28:26.101Z'
 title: |
   Consulter, créer, collaborer & gérer
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-06-03-consulter-creer-collaborer-and-gerer.md
 starred: false
 datePublishedOriginal: '2018-06-03T08:28:12.106Z'
-sourcePath: _posts/2018-06-03-consulter-creer-collaborer-and-gerer.md
 _type: Blurb
 
 ---
