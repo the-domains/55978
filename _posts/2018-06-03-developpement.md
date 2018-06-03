@@ -2,11 +2,11 @@
 inFeed: true
 description: >-
   Nous nous efforçons de développer des contenus qui sont non seulement
-  original, mais aussi lisible et compréhensif. Intégrant aussi vos divers
+  original, mais aussi lisible et compréhensif.Intégrant aussi vos divers
   resources dans un système de gestion de contenu unifié pour vous aider à gérer
   tout d'un même environnement.
-dateModified: '2018-06-03T06:59:41.768Z'
-datePublished: '2018-06-03T06:59:42.213Z'
+dateModified: '2018-06-03T06:59:56.668Z'
+datePublished: '2018-06-03T06:59:56.864Z'
 title: Développement
 author: []
 publisher: {}
