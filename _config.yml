@@ -16,7 +16,8 @@ author:
   name: Tous droits réservé lunnagraphics.ca Ani Markarian
   email: lunnagraphics@gmail.com
   url: 'https://thegrid.ai/55978/lunnagraphics'
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a961e9f3-034c-4f17-877c-97695091663d.png
 name: ' '
 url: 'https://thegrid.ai/55978/lunnagraphics'
 colors:
@@ -100,7 +101,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
