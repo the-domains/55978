@@ -13,23 +13,29 @@ keywords:
   - siteweb
   - ani markarian
   - animarkarian
-description: >-
-  Lunna.ca Développement de contenus web et graphiques par Ani MarkarianNous
-  collaborons avec des gens de diverses talents et de ressources technologiques
-  pour vous apporter des utiles de publicité qui peuvent promouvoir tous vos
-  idées. Nous prenons charg
+description: >
+  Nous collaborons avec des gens de diverses talents et de ressources
+  technologiques pour vous apporter des utiles de publicité qui peuvent
+  promouvoir tous vos idées. Nous prenons charge de l’enregistrement du nom de
+  votre site web, l’hébergement et mise en place, de gérer vos contenus, de
+  faire des mises à jours si nécessaire, déplacer un site existant, préparer le
+  site pour des commerces électroniques, s’assurer du référencement de votre
+  site web, traduire s’il y a lieu, y compris la papeterie personnalisée,
+  communiquer et consulter avec vous et se déplacer pour vous rencontrer à votre
+  convenance.
 app_links: []
 isBasedOnUrl: 'https://lunnagraphics.weebly.com/fr.html'
-title: Lunna.ca Site Web et Graphique
-datePublished: '2018-06-03T06:01:30.412Z'
-dateModified: '2018-06-03T06:01:27.174Z'
-datePublishedOriginal: '2018-06-03T06:01:30.412Z'
+title: Contenu Web et Graphique
+datePublished: '2018-06-03T06:28:52.501Z'
+dateModified: '2018-06-03T06:28:52.049Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-06-03-lunnaca-site-web-et-graphique.md
+starred: false
+datePublishedOriginal: '2018-06-03T06:01:30.412Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Lunna.ca Site Web et Graphique</h1><p>Lunna.ca Développement de contenus web et graphiques par Ani MarkarianNous collaborons avec des gens de diverses talents et de ressources technologiques pour vous apporter des utiles de publicité qui peuvent promouvoir tous vos idées. Nous prenons charg</p><img src="http://lunnagraphics.weebly.com/uploads/1/1/5/5/115548545/logo-lunna-ca-orig_2.png" /></article>
+<article style=""><h1>Contenu Web et Graphique</h1><p>Nous collaborons avec des gens de diverses talents et de ressources technologiques pour vous apporter des utiles de publicité qui peuvent promouvoir tous vos idées. Nous prenons charge de l’enregistrement du nom de votre site web, l’hébergement et mise en place, de gérer vos contenus, de faire des mises à jours si nécessaire, déplacer un site existant, préparer le site pour des commerces électroniques, s’assurer du référencement de votre site web, traduire s’il y a lieu, y compris la papeterie personnalisée, communiquer et consulter avec vous et se déplacer pour vous rencontrer à votre convenance.
+</p></article>
