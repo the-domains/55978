@@ -27,9 +27,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Lunnagraphics.ca
-    url: 'https://lunnagraphics.weebly.com/fr.html'
-    type: external
   - name: A Propos
     id: 41472860-b103-4a37-b83c-589b30dc8bd4
     type: content
