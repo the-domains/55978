@@ -34,6 +34,9 @@ navigation:
   - name: Portfolio
     url: 'https://lunnagraphics.weebly.com/portfolio-409683.html'
     type: external
+  - name: Politique
+    url: 'https://lunnagraphics.weebly.com/policy-669152.html'
+    type: external
 title: Lunnagraphics.ca
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
