@@ -37,29 +37,5 @@ navigation:
     url: 'https://lunnagraphics.weebly.com/policy-669152.html'
     type: external
 title: Lunnagraphics.ca
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43e860a1-22cb-4d99-812d-14d8f6056d55.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/43e860a1-22cb-4d99-812d-14d8f6056d55.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: ''
