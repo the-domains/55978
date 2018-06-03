@@ -1,31 +1,32 @@
 ---
 inFeed: true
 description: >-
-  We strive to build pages with content that are not only informative but also
-  legible and comprehensive. Leaving a timeless imprint in our viewers memory
-  all while enticing their curiosity. 
-dateModified: '2018-06-03T06:39:15.113Z'
-datePublished: '2018-06-03T06:39:15.625Z'
+  Nous nous efforçons de développer des contenus qui sont non seulement
+  original, mais aussi lisible et compréhensif. Intégrant aussi vos divers
+  resources dans un système de gestion de contenu unifié pour vous aider à gérer
+  tout d'un même environnement.
+dateModified: '2018-06-03T06:59:41.768Z'
+datePublished: '2018-06-03T06:59:42.213Z'
 title: Développement
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-06-03-developpement.md
 starred: false
 datePublishedOriginal: '2018-06-03T06:39:15.625Z'
-sourcePath: _posts/2018-06-03-developpement.md
 _type: Blurb
 
 ---
 ## **Développement**
 
-We strive to build pages with content that are not only informative but also legible and comprehensive.  
-Leaving a timeless imprint in our viewers memory all while enticing their curiosity.
+Nous nous efforçons de développer des contenus qui sont non seulement original, mais aussi lisible et compréhensif.  
+Intégrant aussi vos divers resources dans un système de gestion de contenu unifié pour vous aider à gérer tout d'un même environnement.
 
 ## **Site Responsive**
 
-We make sure your site has a Responsive Web Design; Customized for various device sizes and views while integrating your diverse sources into a unified content management system to help you manage it all from one environment.
+Nous nous assurons que votre site a un conception web "Responsive" qui vise à offrir une expérience de lecture et de navigation optimales pour l'utilisateur en adaptant à tout type d'appareil de manière transparente quelle que soit sa gamme, tailles et formats d'écrans.
 
 ## **Travail d'équipe**
 
-Fostering teamwork ethics and collaboration all while maintaining professionalism.  
-We meet, discuss, conceptualize ideas,consult options and possibilities of actualizing visions in an efficient manner.
+Nous aimons travailler en collaboration avec des travailleurs autonomes et en équipe tout en maintenant le professionnalisme.  
+Nous rencontrons, discuterons, conceptualisons vos idées et vous consultons sur les divers options et  possibilités de réaliser vos visions efficacement.
