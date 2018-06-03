@@ -16,8 +16,8 @@ description: >-
   tout d'un même environnement.
 app_links: []
 title: Développement
-datePublished: '2018-06-03T08:06:01.832Z'
-dateModified: '2018-06-03T08:06:01.347Z'
+datePublished: '2018-06-03T08:10:18.003Z'
+dateModified: '2018-06-03T08:10:17.647Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-06-03-lunnaca-site-web-et-graphique.md
@@ -29,18 +29,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6b04c3f-23c1-4339-87cf-fb115ddb4877.jpg)
-
-## **Développement**
-
-Nous nous efforçons de développer des contenus qui sont non seulement original, mais aussi lisible et compréhensif.  
-Intégrant aussi vos divers resources dans un système de gestion de contenu unifié pour vous aider à gérer tout d'un même environnement.
-
-## **Site Responsive**
-
-Nous nous assurons que votre site a un conception web "Responsive" qui vise à offrir une expérience de lecture et de navigation optimales pour l'utilisateur en adaptant à tout type d'appareil de manière transparente quelle que soit sa gamme, tailles et formats d'écrans.
-
-## **Travail d'équipe**
-
-Nous aimons travailler en collaboration avec des travailleurs autonomes et en équipe tout en maintenant le professionnalisme.  
-Nous rencontrons, discuterons, conceptualisons vos idées et vous consultons sur les divers options et possibilités de réaliser vos visions efficacement.
+![Nous nous efforçons de développer des contenus qui sont non seulement original, mais aussi lisible et compréhensif.Intégrant aussi vos divers resources dans un système de gestion de contenu unifié pour vous aider à gérer tout d'un même environnement.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6b04c3f-23c1-4339-87cf-fb115ddb4877.jpg)
