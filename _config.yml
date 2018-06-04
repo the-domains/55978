@@ -31,9 +31,6 @@ navigation:
   - name: Portfolio
     id: 41472860-b103-4a37-b83c-589b30dc8bd4
     type: content
-  - name: Politique
-    url: 'https://lunnagraphics.weebly.com/policy-669152.html'
-    type: external
 title: Lunnagraphics.ca
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
